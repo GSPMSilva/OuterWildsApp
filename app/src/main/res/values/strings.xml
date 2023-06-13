@@ -6,4 +6,10 @@
     <string name="app_1p_botao2">Nada!</string>
     <string name="app_1p_botao3">Nada!</string>
     <string name="app_1p_botao4">Nada!</string>
+    <string name="app_2p_titulo">Planetas</string>
+    <string name="app_2p_abrolho">Abrolho Sombrio</string>
+    <string name="app_2p_profundezas">Profundezas do Gigante</string>
+    <string name="app_2p_vale">Vale Incerto</string>
+    <string name="app_2p_recanto">Recanto Lenhoso</string>
+    <string name="app_2p_voltar">Voltar</string>
 </resources>
