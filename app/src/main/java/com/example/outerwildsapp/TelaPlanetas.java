@@ -15,25 +15,25 @@ public class TelaPlanetas extends AppCompatActivity {
     }
 
     public void IrAbrolho (View view){
-        Intent intent = new Intent(this, planeta_abrolho.class);
+        Intent intent = new Intent(this, Planeta_abrolho.class);
         startActivity(intent);
 
     }
 
     public void IrProfundezas (View view){
-        Intent intent = new Intent(this, planeta_profundezas.class);
+        Intent intent = new Intent(this, Planeta_profundezas.class);
         startActivity(intent);
 
     }
 
     public void IrVale (View view){
-        Intent intent = new Intent(this, planeta_vale.class);
+        Intent intent = new Intent(this, Planeta_vale.class);
         startActivity(intent);
 
     }
 
     public void IrRecanto (View view){
-        Intent intent = new Intent(this, planeta_recanto.class);
+        Intent intent = new Intent(this, Planeta_recanto.class);
         startActivity(intent);
 
     }
