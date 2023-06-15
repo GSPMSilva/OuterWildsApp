@@ -45,17 +45,35 @@
         app:layout_constraintVertical_bias="0.401" />
 
     <ImageButton
-        android:layout_margin="12dp"
         android:id="@+id/imageButtonPlay"
         android:layout_width="55dp"
-        android:background="@color/transparente2"
         android:layout_height="55dp"
+        android:layout_margin="12dp"
+        android:background="@color/transparente2"
+        android:contentDescription="@string/app_1p_botao1"
+        android:onClick="MusicaPlay"
         android:scaleType="fitCenter"
         android:src="@drawable/img_play"
-        android:onClick="MusicaPlay"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ImageButton
+        android:id="@+id/imageButtonPause"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_margin="12dp"
+        android:background="@color/transparente2"
+        android:contentDescription="@string/app_1p_botao1"
+        android:onClick="MusicaParar"
+        android:scaleType="fitCenter"
+        android:src="@drawable/img_stop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.997"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />

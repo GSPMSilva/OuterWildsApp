@@ -2,7 +2,6 @@ package com.example.outerwildsapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.Activity;
 import android.media.MediaPlayer;
 import android.net.Uri;
 import android.os.Bundle;
@@ -12,14 +11,14 @@ import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
 
-    MediaPlayer mediaPlayer;
+    public static MediaPlayer mediaPlayer;
+
     ImageButton play;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         play = findViewById(R.id.imageButtonPlay);
-
 
 
     }
@@ -51,6 +50,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
+    }
+
+    public void MusicaParar(View view){
+        mediaPlayer.stop();
+        play.setImageResource(R.drawable.img_play);
 
     }
 
