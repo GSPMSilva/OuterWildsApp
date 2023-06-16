@@ -136,7 +136,7 @@
             android:contentDescription="@string/app_1p_botao1"
             android:onClick="IrMapa"
             android:scaleType="fitCenter"
-            android:src="@drawable/img_4" />
+            android:src="@drawable/img_mapa" />
 
         <ImageButton
             android:id="@+id/imageButton4"
@@ -144,11 +144,12 @@
             android:layout_height="70dp"
             android:layout_toEndOf="@+id/imageButton3"
             android:layout_weight="1"
+
             android:background="@color/yellow"
             android:contentDescription="@string/app_1p_botao1"
             android:onClick="IrEmail"
             android:scaleType="fitCenter"
-            android:src="@drawable/img_4" />
+            android:src="@drawable/img_email" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

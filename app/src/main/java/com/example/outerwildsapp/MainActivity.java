@@ -78,9 +78,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void IrMapa (View view){
-        Uri linkmapa = Uri.parse("https://goo.gl/maps/3D7BxWi56K1MwXBs6");
-        Intent intent4 = new Intent(Intent.ACTION_VIEW,linkmapa);
-        startActivity(intent4);
+        Uri linkmapa = Uri.parse("https://goo.gl/maps/zsVCiyjH3ALTqd7D7");
+        Intent it = new Intent(Intent.ACTION_VIEW,linkmapa);
+        startActivity(it);
     }
 
     public void IrEmail (View view){
