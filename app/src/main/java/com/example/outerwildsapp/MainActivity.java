@@ -9,6 +9,8 @@ import android.view.View;
 import android.content.Intent;
 import android.widget.ImageButton;
 
+import java.net.URLEncoder;
+
 public class MainActivity extends AppCompatActivity {
 
     public static MediaPlayer mediaPlayer;
@@ -74,6 +76,25 @@ public class MainActivity extends AppCompatActivity {
         Intent intent3 = new Intent(Intent.ACTION_VIEW,link);
         startActivity(intent3);
     }
+
+    public void IrMapa (View view){
+        Uri linkmapa = Uri.parse("https://goo.gl/maps/3D7BxWi56K1MwXBs6");
+        Intent intent4 = new Intent(Intent.ACTION_VIEW,linkmapa);
+        startActivity(intent4);
+    }
+
+    public void IrEmail (View view){
+        String uriText = "mailto:fanmail@mobiusdigitalgames.com" +"?subject=" + URLEncoder.encode("assunto do email") +"&body=" + URLEncoder.encode("texto do email");
+        Uri uri= Uri.parse(uriText);
+        //inicia a Intent
+        Intent it = new Intent(Intent.ACTION_SENDTO);
+        // Define o conteúdo
+        it.setData(uri);
+        // Inicia a activity para enviar o email
+        startActivity(Intent.createChooser(it, "Enviar Email"));
+    }
+
+
 
 
 }
