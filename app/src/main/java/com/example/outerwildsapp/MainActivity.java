@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     public static MediaPlayer mediaPlayer;
 
-    ImageButton play;
+    public ImageButton play;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -52,10 +52,10 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
     public void MusicaParar(View view){
         mediaPlayer.stop();
         play.setImageResource(R.drawable.img_play);
+        mediaPlayer =  MediaPlayer.create(this,(R.raw.music_outer));
 
     }
 
@@ -74,4 +74,6 @@ public class MainActivity extends AppCompatActivity {
         Intent intent3 = new Intent(Intent.ACTION_VIEW,link);
         startActivity(intent3);
     }
+
+
 }
