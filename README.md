@@ -21,18 +21,16 @@ Imagens:
 
 <br>
 
-![image](https://github.com/yGabrielT/OuterWildsAPP/assets/126109657/2c52636c-fb8f-4208-b8a2-4c3a9b6c9cd6)
+![img1](https://github.com/yGabrielT/OuterWildsAPP/assets/95586355/c35e1868-46a5-4387-ba9c-ab7ef148d6ae)
 
-![image](https://github.com/yGabrielT/OuterWildsAPP/assets/126109657/85b168c6-94e0-46c8-b2fd-fe3fb4d00879)
+![img2](https://github.com/yGabrielT/OuterWildsAPP/assets/95586355/e6e1a78b-a929-4d99-b10c-e9447177903b)
 
-![image](https://github.com/yGabrielT/OuterWildsAPP/assets/126109657/88579166-2470-4160-be79-b7f3f890476c)
+![img3](https://github.com/yGabrielT/OuterWildsAPP/assets/95586355/cd39726f-1115-493c-88cd-3bd380d0b080)
 
-![image](https://github.com/yGabrielT/OuterWildsAPP/assets/126109657/99c2ec6d-e651-469e-bb09-6a2c3412ed54)
+![img4](https://github.com/yGabrielT/OuterWildsAPP/assets/95586355/5a76bb73-ef55-4dac-9247-ffd03a2cb32d)
 
-![image](https://github.com/yGabrielT/OuterWildsAPP/assets/126109657/a4b60878-17b5-434c-9ce0-8ee12626d71c)
+![img5](https://github.com/yGabrielT/OuterWildsAPP/assets/95586355/2ec78425-bd15-4b12-afff-6bf3621fd974)
 
-![image](https://github.com/yGabrielT/OuterWildsAPP/assets/126109657/b031ae92-8248-45a5-bea8-e6f78690e683)
+![img6](https://github.com/yGabrielT/OuterWildsAPP/assets/95586355/68709f48-2acd-4706-b513-912a24c2fbe1)
 
-![image](https://github.com/yGabrielT/OuterWildsAPP/assets/126109657/f7091683-4586-4838-8cf9-6034893ca1f8)
-
-![image](https://github.com/yGabrielT/OuterWildsAPP/assets/126109657/64550dcd-37bc-487d-9faf-d8f902776576)
+![img7](https://github.com/yGabrielT/OuterWildsAPP/assets/95586355/2c1df3d3-5326-4767-81e0-b7f0aebd020b)
