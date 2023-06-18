@@ -15,8 +15,8 @@ No Activity inicial também há o quarto e o quinto botão no qual o quarto leva
   
   
 
+Video do aplicativo funcionando: https://youtu.be/bFlIGhjzeUg
 
-.
 Imagens:
 
 
