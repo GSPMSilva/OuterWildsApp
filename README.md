@@ -1,6 +1,8 @@
 # OuterWildsAPP
-> GitHub .[@GSPMSilva](https://github.com/GSPMSilva).&nbsp;&middot;&nbsp;
+Nome dos Integrantes.
 
+
+> GitHub .[@GSPMSilva](https://github.com/GSPMSilva).&nbsp;&middot;&nbsp; <br1><br1/>
 > GitHub .[@yGabrielT](https://github.com/yGabrielT).&nbsp;&middot;&nbsp;
 
 
