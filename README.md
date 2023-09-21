@@ -1,5 +1,6 @@
 # OuterWildsAPP
 > GitHub .[@GSPMSilva](https://github.com/GSPMSilva).&nbsp;&middot;&nbsp;
+
 > GitHub .[@yGabrielT](https://github.com/yGabrielT).&nbsp;&middot;&nbsp;
 
 
