@@ -1,5 +1,6 @@
 # OuterWildsAPP
-⌜Nome: Gabriel Trindade e Gustavo Severo⌝
+> GitHub .[@GSPMSilva](https://github.com/GSPMSilva).&nbsp;&middot;&nbsp;
+> GitHub .[@yGabrielT](https://github.com/yGabrielT).&nbsp;&middot;&nbsp;
 
 
 
